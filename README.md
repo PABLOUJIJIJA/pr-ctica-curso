@@ -1,4 +1,4 @@
-# practica-curso
+# Repositorio uno 
 Primero repo creado en Github
 
 ##descripción
